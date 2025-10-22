@@ -1,0 +1,1 @@
+# Exerc-cio-de-Fixa-o-JavaScript-Word-e-GitHub
